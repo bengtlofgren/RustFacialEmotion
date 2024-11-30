@@ -1,6 +1,8 @@
 # Usage
 
+```bash
 cargo run -- "model name" "path to image of cropped face"
+```
 
 ## Pre-requisites
 
